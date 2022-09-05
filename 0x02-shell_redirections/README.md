@@ -1,1 +1,1 @@
-This is Alx project on shell redirection
+This is Alx project on shell redirections.
